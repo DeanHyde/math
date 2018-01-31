@@ -1,11 +1,21 @@
 {
-    "name": "usaycompare/adder",
+    "name": "usaycompare/math",
     "description": "Classes to add and subtract",
     "authors": [
         {
             "name": "Dean Hyde",
             "email": "dean.hyde@usaycompare.com"
         }
-    ],
-    "require": {}
+    ],,
+    "autoload": {
+        "psr-4": {
+            "Usaycompare\\Authmiddleware\\": "src/"
+        }
+    }
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Usaycompare\\Math\\": "src/"
+        }
+    }
 }
