@@ -6,12 +6,7 @@
             "name": "Dean Hyde",
             "email": "dean.hyde@usaycompare.com"
         }
-    ],,
-    "autoload": {
-        "psr-4": {
-            "Usaycompare\\Authmiddleware\\": "src/"
-        }
-    }
+    ],
     "require": {},
     "autoload": {
         "psr-4": {
