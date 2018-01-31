@@ -1,6 +1,6 @@
 <?php
 
-namespace Usaycompare\Math\Interfaces;
+namespace DeanKH\Math\Interfaces;
 
 
 interface MathInterface {
