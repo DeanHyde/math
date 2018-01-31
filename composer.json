@@ -1,16 +1,16 @@
 {
-    "name": "usaycompare/math",
+    "name": "deankh/math",
     "description": "Classes to add and subtract",
     "authors": [
         {
             "name": "Dean Hyde",
-            "email": "dean.hyde@usaycompare.com"
+            "email": "deanhyde@outlook.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Usaycompare\\Math\\": "src/"
+            "DeanKH\\Math\\": "src/"
         }
     }
 }
