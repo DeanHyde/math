@@ -1,9 +1,9 @@
 <?php
 
-namespace Usaycompare\Math;
+namespace DeanKH\Math;
 
 
-use Usaycompare\Math\Interfaces\MathInterface;
+use DeanKH\Math\Interfaces\MathInterface;
 
 class Add implements MathInterface {
 
