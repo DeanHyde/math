@@ -1,0 +1,11 @@
+{
+    "name": "usaycompare/adder",
+    "description": "Classes to add and subtract",
+    "authors": [
+        {
+            "name": "Dean Hyde",
+            "email": "dean.hyde@usaycompare.com"
+        }
+    ],
+    "require": {}
+}
